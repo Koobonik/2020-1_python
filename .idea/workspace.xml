@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3de33cfb-873c-4ad7-a2b1-a3bac8aaec6a" name="Default Changelist" comment="" />
+    <list default="true" id="3de33cfb-873c-4ad7-a2b1-a3bac8aaec6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordcloud.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wordcloud.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZqEffAEjpZuW9daNgHkckKwnqI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -34,7 +43,7 @@
       <recent name="D:\code\python_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0428_">
+  <component name="RunManager" selected="Python.chickenBowl">
     <configuration name="0415_webCrolling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="httptest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chickenBowl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_data" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +145,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/httptest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chickenBowl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chickenBowl" />
+        <item itemvalue="Python.0415_webCrolling" />
         <item itemvalue="Python.0428_" />
         <item itemvalue="Python.0420_tree" />
         <item itemvalue="Python.wordCloud_201504003_구본익" />
-        <item itemvalue="Python.0415_webCrolling" />
-        <item itemvalue="Python.httptest" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +211,8 @@
       <workItem from="1587909329531" duration="22000" />
       <workItem from="1588069514866" duration="2053000" />
       <workItem from="1588159860251" duration="3000" />
-      <workItem from="1588529936304" duration="1838000" />
+      <workItem from="1588529936304" duration="11528000" />
+      <workItem from="1588575582346" duration="1223000" />
     </task>
     <servers />
   </component>
@@ -246,10 +256,10 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="2517" height="352" key="GridCell.Tab.1.right/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1587402549455" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588531176862">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588575586518">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1588531176862" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1588575586518" />
     <state x="1022" y="136" width="613" height="807" key="find.popup" timestamp="1587395292039">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
