@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de33cfb-873c-4ad7-a2b1-a3bac8aaec6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordcloud.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wordcloud.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +211,7 @@
       <workItem from="1588159860251" duration="3000" />
       <workItem from="1588529936304" duration="11528000" />
       <workItem from="1588575582346" duration="1223000" />
+      <workItem from="1588598965324" duration="3179000" />
     </task>
     <servers />
   </component>
@@ -256,10 +255,10 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="2517" height="352" key="GridCell.Tab.1.right/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1587402549455" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588575586518">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588703961059">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1588575586518" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1588703961059" />
     <state x="1022" y="136" width="613" height="807" key="find.popup" timestamp="1587395292039">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
