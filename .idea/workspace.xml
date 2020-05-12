@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de33cfb-873c-4ad7-a2b1-a3bac8aaec6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/movies.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ratings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0415_webCrolling.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous/0415_webCrolling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0420_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous/0420_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0428_.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous/0428_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous/asd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chickenBowl.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous/chickenBowl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chipotle.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/previous/chipotle.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httptest.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous/httptest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/korean_stopwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/previous/korean_stopwords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous/py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/titanic_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/previous/titanic_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/titanic_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/previous/titanic_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wine.csv" beforeDir="false" afterPath="$PROJECT_DIR$/previous/wine.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordCloud_201504003_구본익.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous/wordCloud_201504003_구본익.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordcloud.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/wordcloud.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZqEffAEjpZuW9daNgHkckKwnqI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,10 +53,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\python_data" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\python_data" />
+      <recent name="D:\code\python_data\previous" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\python_data" />
     </key>
   </component>
@@ -55,7 +75,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0415_webCrolling.py" />
+      <option name="SCRIPT_NAME" value="D:\code\python_data\previous\0415_webCrolling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +97,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0420_tree.py" />
+      <option name="SCRIPT_NAME" value="D:\code\python_data\previous\0420_tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +119,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0428_.py" />
+      <option name="SCRIPT_NAME" value="D:\code\python_data\previous\0428_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +163,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chickenBowl.py" />
+      <option name="SCRIPT_NAME" value="D:\code\python_data\previous\chickenBowl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\code\python_data\wordCloud_201504003_구본익.py" />
+      <option name="SCRIPT_NAME" value="D:\code\python_data\previous\wordCloud_201504003_구본익.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,6 +232,10 @@
       <workItem from="1588529936304" duration="11528000" />
       <workItem from="1588575582346" duration="1223000" />
       <workItem from="1588598965324" duration="3179000" />
+      <workItem from="1588703961065" duration="1570000" />
+      <workItem from="1589207008328" duration="4000" />
+      <workItem from="1589207328075" duration="675000" />
+      <workItem from="1589306377004" duration="380000" />
     </task>
     <servers />
   </component>
@@ -255,10 +279,10 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="2517" height="352" key="GridCell.Tab.1.right/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1587402549455" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588703961059">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1589306377723">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1588703961059" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.2560.1050/2560.0.1920.1050@0.0.2560.1050" timestamp="1589306377723" />
     <state x="1022" y="136" width="613" height="807" key="find.popup" timestamp="1587395292039">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
